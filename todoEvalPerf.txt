@@ -1,0 +1,21 @@
+evt: Type + date
+ech: linkedlist of evt
+stats: temps sejour moyen , etc
+
+MM1 : class main
+
+
+java MM1 5 6 1000 0/1
+
+0/1 => si 1 affichre tous evts et tous et 0 juste résultats
+
+
+Rapport :
+ Test fais et tous jouer avec labda et mu
+
+ Courbe
+
+ Voir quand pas stable Lambda > mu (converge pas)
+
+Si le systeme est vide, ce qui separe An et Dn, c'est une duree de separation.
+Si le systeme n'est pas vide, ce qui separe An et Dn, c'est (le depart de n-1 + une duree de service)
